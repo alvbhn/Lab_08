@@ -8,9 +8,11 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * JavaFX App
- */
+/*
+* GitHub Repo Link: https://github.com/alvbhn/Lab_08.git
+*
+* @author Alvee Ahsan Bhuiyan
+*/
 public class App extends Application {
 
     private static Scene scene;
